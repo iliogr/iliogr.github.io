@@ -680,7 +680,7 @@ textarea.materialize-textarea:focus:not([readonly]) + label {
   color: #5da4d9;
 }
 .we-bp li{
-  font-size: 14px;
+  font-size: 10pt;
   font-weight: 300;
   list-style-type: disc;
 }
